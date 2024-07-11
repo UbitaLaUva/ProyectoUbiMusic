@@ -11,7 +11,7 @@ import ubimusic.Conexion.Conexion;
 import ubimusic.Modelo.Artista;
 import ubimusic.Modelo.generoMusica;
 import ubimusic.Vista.genMusica;
-import ubimusic.Vista.art;
+import ubimusic.Vista.art; 
 
 /**
  *
